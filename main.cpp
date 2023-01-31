@@ -1,3 +1,5 @@
+//whats good yungblood
+
 #include "vecfuncs.h"
 
 int main() 
